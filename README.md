@@ -1,6 +1,6 @@
 # command-line-familiarity
 
-This exercise is designed as a way to get used to using command line. The commands you will need are ls, cd, cat, mkdir, touch/New-Item and rm.
+This exercise is designed as a way to get used to using command line. The commands you will need are ls, cd, cat, mkdir, rm and touch or New-Item (depends on the terminal as to which command you'll need).
 
 Follow these steps to begin your quest:
 
